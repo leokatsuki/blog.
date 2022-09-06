@@ -1,0 +1,26 @@
+<svg width="112" height="112" viewBox="0 0 112 112" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="blog-logo2">
+<g id="Group 5190">
+<path id="Vector 1091" d="M37 39.1233C37 19.9023 37 10.3612 54.3266 10.0101C54.8788 9.99887 55.3391 10.4477 55.3391 11V19.8732C55.3391 20.4254 54.8908 20.8705 54.3392 20.8981C44.5665 21.3885 37.1327 29.0443 37 39.1233Z" fill="url(#paint0_linear_143_201)"/>
+<ellipse id="Ellipse 312" cx="55.5" cy="38.959" rx="18.5" ry="18.8936" fill="url(#paint1_linear_143_201)"/>
+</g>
+<g id="blog.">
+<text fill="url(#paint2_linear_143_201)" xml:space="preserve" style="white-space: pre" font-family="Rubik" font-size="36" letter-spacing="0em"><tspan x="91.3164" y="91.83">.</tspan></text>
+<text fill="#F7F9FC" xml:space="preserve" style="white-space: pre" font-family="Rubik" font-size="36" letter-spacing="0em"><tspan x="19" y="91.83">blog</tspan></text>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_143_201" x1="42.4779" y1="9.22209" x2="48.8451" y2="28.982" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5390E3"/>
+<stop offset="1" stop-color="#1357B3"/>
+</linearGradient>
+<linearGradient id="paint1_linear_143_201" x1="71.3571" y1="23.5006" x2="39.7061" y2="54.7326" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5390E3"/>
+<stop offset="1" stop-color="#1357B3"/>
+</linearGradient>
+<linearGradient id="paint2_linear_143_201" x1="95.1429" y1="61.9091" x2="65.6434" y2="118.6" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5390E3"/>
+<stop offset="1" stop-color="#1357B3"/>
+</linearGradient>
+</defs>
+</svg>
